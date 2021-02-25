@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# About
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project shows how to use react, redux and typescript altogether.
+This is part of a course on Udemy.
 
 ## Available Scripts
 
